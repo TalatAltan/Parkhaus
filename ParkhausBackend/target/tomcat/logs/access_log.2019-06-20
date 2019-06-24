@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:20:53:29 +0200] "GET /PositionServlet?posX=155&posY=310 HTTP/1.1" 200 58 http-bio-8080-exec-1 94
+0:0:0:0:0:0:0:1 - - [20/Jun/2019:20:54:22 +0200] "GET /PositionServlet?posX=190&posY=256 HTTP/1.1" 200 58 http-bio-8080-exec-3 1

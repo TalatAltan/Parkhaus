@@ -1,0 +1,32 @@
+#parkhaus{
+    position: relative;
+    margin: 0;
+    height: 600px;
+    width: 600px;
+    flex: 0 0 600px;
+}
+
+#parkingLot{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#carTable{
+    width: 100%;
+}
+
+.car{
+    position: absolute;
+    left: 0px;
+    top: 30px;
+    transform: rotate(90deg);
+}
+
+button{
+    margin: 2px;
+}
+
+body{
+    margin: 0;
+}
